@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi and welcome to my GitHub 👋
 
 I'm Marta Alirangues-Núñez
 
 _pronouns: she/her_
 
-
+## About me
 - 🔭 I’m a aquatic and restoration ecologist looking for a job as data scientist.
 - 🌱 I’m currently learning ...
 
@@ -19,4 +19,4 @@ _pronouns: she/her_
 - ⚡ Fun fact: ...
 -->
 
-✨ _special_ ✨
+✨ _more information coming soon_ ✨
