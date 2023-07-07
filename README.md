@@ -13,8 +13,8 @@ _pronouns: she/her_
   <a href="https://www.researchgate.net/profile/Marta-Alirangues">
     <img src="https://img.shields.io/badge/researchgate-white?style=for-the-badge&logo=researchgate&logoColor=%2300CCBB" alt="ResearchGate Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/martaalirangues/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/tallaringues">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
