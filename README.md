@@ -69,6 +69,7 @@ _pronouns: she/her_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallaringues&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+✨ _more information coming soon_ ✨
 -->
 
-✨ _more information coming soon_ ✨
+
