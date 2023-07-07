@@ -20,7 +20,7 @@ _pronouns: she/her_
 
 ---
 
-## About me
+## :woman_technologist: About me
 - 🔭 I’m a data scientist and aquatic and restoration ecologist looking for a job in the data world 💻.
 - 🌱 I’m currently learning Natural Language Processing (NLP)
 - 💬 Ask me about machine learning, climate change, aquatic ecology, gender equality and diversity 
@@ -47,10 +47,6 @@ _pronouns: she/her_
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tallaringues&theme=gruvbox)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallaringues&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
    <a href="https://github.com/tallaringues/github-readme-stats">
    <img alt="Marta Alirangues's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Tallaringues&theme=gruvbox" height="180px"/></a>
@@ -67,6 +63,11 @@ _pronouns: she/her_
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tallaringues&theme=gruvbox)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallaringues&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 ✨ _more information coming soon_ ✨
