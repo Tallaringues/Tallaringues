@@ -1,4 +1,4 @@
-![cover photo](https://github.com/Tallaringues/Tallaringues/extras/Banner_Portugal.png)
+![cover photo](https://github.com/Tallaringues/Tallaringues/blob/main/extras/Banner_Portugal.png)
 
 ### Hi and welcome to my GitHub 👋
 
