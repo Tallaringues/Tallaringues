@@ -22,8 +22,9 @@ _pronouns: she/her_
 
 ## :woman_technologist: About me
 - 🔭 I’m a data scientist and aquatic and restoration ecologist looking for a job in the data world 💻.
-- 🌱 I’m currently learning Natural Language Processing (NLP)
+- 🌱 I’m currently learning Natural Language Processing (NLP) and working on personal projects
 - 💬 Ask me about machine learning, climate change, aquatic ecology, gender equality and diversity 
+- 📫 Get in touch with me via email or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martaalirangues/)
 
 ---
 
