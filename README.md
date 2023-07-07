@@ -1,3 +1,5 @@
+![cover photo](https://github.com/Tallaringues/Tallaringues/extras/Banner_Portugal.png)
+
 ### Hi and welcome to my GitHub 👋
 
 I'm Marta Alirangues-Núñez
