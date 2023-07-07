@@ -8,7 +8,8 @@ _pronouns: she/her_
 
 ## About me
 - 🔭 I’m a aquatic and restoration ecologist looking for a job as data scientist.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Natural Language Processing (NLP)
+- 💬 Ask me about machine learning, climate change, aquatic ecology, gender equality and diversity 
 
 <!--
 
