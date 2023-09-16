@@ -51,7 +51,7 @@ _pronouns: she/her_
 
 <p>
    <a href="https://github.com/tallaringues/github-readme-stats">
-   <img alt="Marta Alirangues's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Tallaringues&theme=gruvbox" height="180px"/></a>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Tallaringues&theme=gruvbox" height="180px"/></a>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tallaringues&show_icons=true&theme=gruvbox" alt="Marta Alirangues top languages" height="180px"/>
 <br/>
 </p>
